@@ -15,13 +15,13 @@ Cette section présente des articles techniques écrits par nos membres, démont
 **Date :** [Date]  
 **Résumé :** Un guide complet pour comprendre les réseaux de neurones, des concepts de base aux architectures avancées.
 
-### [Construire Votre Premier Modèle ML](/fr/blogs/technical/first-ml-model)
+### [Construire Votre Premier Modèle ML](/fr/blogs/technical/neural-networks-intro)
 
 **Auteur :** [Nom du Membre]  
 **Date :** [Date]  
 **Résumé :** Tutoriel étape par étape sur la construction et l'entraînement de votre premier modèle d'apprentissage automatique en utilisant Python et scikit-learn.
 
-### [Plongée Approfondie dans les Transformers](/fr/blogs/technical/transformers-deep-dive)
+### [Plongée Approfondie dans les Transformers](/fr/blogs/technical/neural-networks-intro)
 
 **Auteur :** [Nom du Membre]  
 **Date :** [Date]  

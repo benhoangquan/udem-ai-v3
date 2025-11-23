@@ -9,23 +9,23 @@ This section features technical articles written by our members, showcasing thei
 
 ## Articles
 
-### [Introduction to Neural Networks](/blogs/technical/neural-networks-intro)
+### [Introduction to Neural Networks](/en/blogs/technical/neural-networks-intro)
 
 **Author:** [Member Name]  
 **Date:** [Date]  
 **Summary:** A comprehensive guide to understanding neural networks, from basic concepts to advanced architectures.
 
-### [Building Your First ML Model](/blogs/technical/first-ml-model)
+### [Introduction to Neural Networks](/en/blogs/technical/neural-networks-intro)
 
 **Author:** [Member Name]  
 **Date:** [Date]  
-**Summary:** Step-by-step tutorial on building and training your first machine learning model using Python and scikit-learn.
+**Summary:** A comprehensive guide to understanding neural networks, from basic concepts to advanced architectures.
 
-### [Deep Dive into Transformers](/blogs/technical/transformers-deep-dive)
+### [Introduction to Neural Networks](/en/blogs/technical/neural-networks-intro)
 
 **Author:** [Member Name]  
 **Date:** [Date]  
-**Summary:** An in-depth exploration of transformer architectures and their applications in modern NLP.
+**Summary:** A comprehensive guide to understanding neural networks, from basic concepts to advanced architectures.
 
 ---
 

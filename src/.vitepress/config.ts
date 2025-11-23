@@ -83,24 +83,24 @@ export default defineConfig({
         socialLinks: [
           {
             icon: "discord",
-            link: "https://discord.gg/placeholder",
+            link: "https://discord.com/invite/2Ttnw8p2Hy",
             ariaLabel: "Rejoindre Discord",
           },
           {
             icon: "instagram",
-            link: "https://instagram.com/placeholder",
+            link: "https://www.instagram.com/udem.ai/",
             ariaLabel: "Suivre sur Instagram",
           },
           {
             icon: "linkedin",
-            link: "https://linkedin.com/company/placeholder",
+            link: "https://www.linkedin.com/company/udem-ai/",
             ariaLabel: "Se connecter sur LinkedIn",
           },
           {
             icon: {
               svg: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm-1 1.217 7 4.2 7-4.2V12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1z"/></svg>',
             },
-            link: "mailto:contact@udemai.club",
+            link: "mailto:hey@udemai.ca",
             ariaLabel: "Envoyer un courriel",
           },
         ],

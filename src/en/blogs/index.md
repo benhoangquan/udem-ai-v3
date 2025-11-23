@@ -9,11 +9,11 @@ Welcome to the UdeM AI Club blog section! Here you'll find articles written by o
 
 ## Blog Categories
 
-### [Weekly Meeting Blogs](/blogs/weekly/)
+### [Weekly Meeting Blogs](/en/blogs/weekly/)
 
 Read about what happened in our weekly meetings, key takeaways, and discussions.
 
-### [Technical Blogs](/blogs/technical/)
+### [Technical Blogs](/en/blogs/technical/)
 
 In-depth technical articles showcasing our members' expertise in AI/ML topics.
 
@@ -24,7 +24,7 @@ In-depth technical articles showcasing our members' expertise in AI/ML topics.
 **Date:** [Date]  
 **Summary:** This week we discussed [topic] and worked on [activity].
 
-[Read more →](/blogs/weekly/week-1)
+[Read more →](/en/blogs/weekly/week-1)
 
 ### Introduction to Neural Networks
 
@@ -32,7 +32,7 @@ In-depth technical articles showcasing our members' expertise in AI/ML topics.
 **Category:** Technical  
 **Summary:** A comprehensive introduction to neural networks and their applications.
 
-[Read more →](/blogs/technical/neural-networks-intro)
+[Read more →](/en/blogs/technical/neural-networks-intro)
 
 ---
 
