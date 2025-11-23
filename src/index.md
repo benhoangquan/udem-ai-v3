@@ -14,4 +14,3 @@ onMounted(() => {
 <link rel="canonical" href="/en/">
 
 Redirecting to [English version](/en/)...
-
