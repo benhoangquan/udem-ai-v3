@@ -1,177 +1,96 @@
-export default [
+// Sidebar for Blogs section
+const activitiesSidebar = [
   {
-    text: "Getting Started",
-    link: "/getting-started/",
+    text: "Blogs",
     collapsed: false,
     items: [
       {
-        text: "Download",
-        link: "/getting-started/installation/",
-        collapsed: true,
-        items: [
-          {
-            text: "App Store",
-            link: "/getting-started/installation/appstore",
-          },
-          {
-            text: "TestFlight",
-            link: "/getting-started/installation/testflight",
-          },
-          {
-            text: "Sideloading",
-            link: "/getting-started/installation/sideloading",
-          },
-        ],
+        text: "Overview",
+        link: "/en/blogs/",
       },
       {
-        text: "Changing Content Settings",
-        link: "/getting-started/content-settings",
+        text: "Weekly Meetings",
+        link: "/en/blogs/weekly/",
       },
       {
-        text: "Adding Content",
-        link: "/getting-started/adding-content/",
-        collapsed: true,
-        items: [
-          {
-            text: "Komga",
-            link: "/getting-started/adding-content/komga",
-          },
-          {
-            text: "Third-Party Extensions",
-            link: "/getting-started/adding-content/third-party-extensions",
-          },
-        ],
-      },
-      {
-        text: "Further Support",
-        link: "/getting-started/further-support/",
+        text: "Technical",
+        link: "/en/blogs/technical/",
       },
     ],
   },
   {
-    text: "Guides",
-    link: "/guides/",
+    text: "Projects",
     collapsed: false,
     items: [
       {
-        text: "Using the Reader",
-        link: "/guides/reader",
-      },
-      {
-        text: "Backing up Your Data",
-        link: "/guides/backups",
-      },
-      {
-        text: "Connecting Trackers",
-        link: "/guides/trackers",
-      },
-      {
-        text: "Migrating Extensions",
-        link: "/guides/migrating",
-      },
-      {
-        text: "Merging Titles",
-        link: "/guides/merging",
-      },
-      {
-        text: "Changing the Theme",
-        link: "/guides/themes",
+        text: "Overview",
+        link: "/en/projects/",
       },
     ],
   },
   {
-    text: "FAQ",
-    link: "/faq/",
+    text: "Resources",
     collapsed: false,
     items: [
       {
-        text: "General",
-        link: "/faq/general",
-      },
-      {
-        text: "Troubleshooting",
-        link: "/faq/troubleshooting",
+        text: "Overview",
+        link: "/en/resources/",
       },
     ],
   },
-  // {
-  //   text: 'Tools',
-  //   link: '/tools/',
-  //   collapsed: true,
-  //   items: [
-  //     {
-  //       text: 'Backup Converter',
-  //       link: '/tools/backup-converter',
-  //     },
-  //     {
-  //       text: 'Themes Creator',
-  //       link: '/tools/themes-creator',
-  //     },
-  //   ],
-  // },
-  // {
-  //   text: 'Contributing',
-  //   link: '/contributing/',
-  //   collapsed: true,
-  //   items: [
-  //     {
-  //       text: 'Extension Development',
-  //       link: '/contributing/extension-development/',
-  //       items: [
-  //         {
-  //           text: 'Quick Start',
-  //           link: '/contributing/extension-development/quick-start',
-  //         },
-  //         {
-  //           text: 'Reference',
-  //           link: '/contributing/extension-development/reference/',
-  //           collapsed: true,
-  //           items: [
-  //             {
-  //               text: 'Parsing Guide',
-  //               link: '/contributing/extension-development/reference/parsing-guide',
-  //             },
-  //             {
-  //               text: 'Function Definitions',
-  //               link: '/contributing/extension-development/reference/function-definitions',
-  //             },
-  //             {
-  //               text: 'Model Reference',
-  //               link: '/contributing/extension-development/reference/model-reference',
-  //             },
-  //             {
-  //               text: 'Metadata Parameter',
-  //               link: '/contributing/extension-development/reference/metadata',
-  //             },
-  //           ],
-  //         },
-  //       ],
-  //     },
-  //     {
-  //       text: 'Website Contribution',
-  //       link: '/contributing/website/',
-  //       items: [
-  //         {
-  //           text: 'Quick Start',
-  //           link: '/contributing/website/quick-start',
-  //         },
-  //         {
-  //           text: 'Reference',
-  //           link: '/contributing/website/reference/',
-  //           collapsed: true,
-  //           items: [
-  //             {
-  //               text: 'Markdown Examples',
-  //               link: '/contributing/website/reference/markdown-examples',
-  //             },
-  //             {
-  //               text: 'API Examples',
-  //               link: '/contributing/website/reference/api-examples',
-  //             },
-  //           ],
-  //         },
-  //       ],
-  //     },
-  //   ],
-  // },
 ];
+
+// Sidebar for Photos/Members section
+const membersSidebar = [
+  {
+    text: "Our Photos",
+    collapsed: false,
+    items: [
+      {
+        text: "Overview",
+        link: "/en/photos/",
+      },
+    ],
+  },
+  {
+    text: "Executives",
+    collapsed: false,
+    items: [
+      {
+        text: "Overview",
+        link: "/en/executives/",
+      },
+    ],
+  },
+];
+
+// Default sidebar for home and other pages
+const defaultSidebar = [
+  {
+    text: "Our Activities",
+    collapsed: false,
+    items: [
+      {
+        text: "Blogs",
+        link: "/en/blogs/",
+      },
+      {
+        text: "Projects",
+        link: "/en/projects/",
+      },
+      {
+        text: "Resources",
+        link: "/en/resources/",
+      },
+    ],
+  },
+];
+
+export default {
+  "/en/": defaultSidebar,
+  "/en/blogs/": activitiesSidebar,
+  "/en/projects/": activitiesSidebar,
+  "/en/resources/": activitiesSidebar,
+  "/en/photos/": membersSidebar,
+  "/en/executives/": membersSidebar,
+};

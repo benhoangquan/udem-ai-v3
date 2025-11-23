@@ -1,22 +1,14 @@
 export default [
   {
-    text: "Getting Started",
-    link: "/getting-started/",
+    text: "Home",
+    link: "/en/",
   },
   {
-    text: "Guides",
-    link: "/guides/",
+    text: "Activities",
+    link: "/en/blogs/",
   },
   {
-    text: "FAQ",
-    link: "/faq/",
+    text: "Our Members",
+    link: "/en/photos/",
   },
-  // {
-  //   text: 'Tools',
-  //   link: '/tools/',
-  // },
-  // {
-  //   text: 'Contributing',
-  //   link: '/contributing/',
-  // },
 ];
