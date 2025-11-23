@@ -33,5 +33,4 @@ Bienvenue au premier article de blogue de rencontre hebdomadaire! Cette semaine 
 
 ---
 
-*Restez à l'écoute pour plus de mises à jour de nos rencontres hebdomadaires!*
-
+_Restez à l'écoute pour plus de mises à jour de nos rencontres hebdomadaires!_

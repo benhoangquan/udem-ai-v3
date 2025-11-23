@@ -60,4 +60,3 @@ Interested in joining a project or starting your own? Contact us through Discord
 ::: tip
 All projects are open to collaboration. Check out our GitHub organization for more details.
 :::
-

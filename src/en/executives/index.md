@@ -70,4 +70,3 @@ Get to know the dedicated members who lead and organize the UdeM AI Club!
 ## Contact
 
 Want to get in touch with the executive team? Join our Discord server or reach out via email!
-

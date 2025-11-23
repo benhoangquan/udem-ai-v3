@@ -29,4 +29,3 @@ This section contains summaries and highlights from our weekly club meetings. Ea
 ::: tip
 Check back weekly for updates on our meetings and activities!
 :::
-

@@ -94,4 +94,3 @@ export default {
   "/fr/photos/": membersSidebar,
   "/fr/executives/": membersSidebar,
 };
-

@@ -45,5 +45,4 @@ Les réseaux de neurones sont des outils puissants pour résoudre des problèmes
 
 ---
 
-*Ceci est un article placeholder. Remplacez par du contenu technique réel.*
-
+_Ceci est un article placeholder. Remplacez par du contenu technique réel._

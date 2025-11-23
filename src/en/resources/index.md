@@ -106,4 +106,3 @@ Curated resources to help you learn and master Machine Learning and Artificial I
 ::: tip
 Have a resource to suggest? Contact us to add it to this list!
 :::
-

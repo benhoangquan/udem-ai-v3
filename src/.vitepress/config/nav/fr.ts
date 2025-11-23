@@ -12,4 +12,3 @@ export default [
     link: "/fr/photos/",
   },
 ];
-

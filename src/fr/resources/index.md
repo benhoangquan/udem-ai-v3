@@ -106,4 +106,3 @@ Ressources soigneusement sélectionnées pour vous aider à apprendre et maîtri
 ::: tip
 Vous avez une ressource à suggérer? Contactez-nous pour l'ajouter à cette liste!
 :::
-

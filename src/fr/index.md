@@ -30,7 +30,6 @@ features:
     details: Travaillez sur des projets passionnants d'IA/ML avec d'autres membres du club et construisez votre portfolio.
   - title: Ressources d'Apprentissage
     details: Accédez à des ressources, tutoriels, articles et outils soigneusement sélectionnés pour accélérer votre parcours en IA/ML.
-
 ---
 
 ## Informations sur les Rencontres
@@ -63,4 +62,3 @@ Le UdeM AI Club est une communauté d'étudiants passionnés par l'Intelligence 
     <p>Photo Placeholder 3</p>
   </div>
 </div>
-

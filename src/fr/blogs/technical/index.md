@@ -32,4 +32,3 @@ Cette section présente des articles techniques écrits par nos membres, démont
 ::: tip
 Intéressé à écrire un blogue technique? Contactez-nous pour contribuer!
 :::
-

@@ -29,4 +29,3 @@ Cette section contient les résumés et points saillants de nos rencontres hebdo
 ::: tip
 Revenez chaque semaine pour des mises à jour sur nos rencontres et activités!
 :::
-

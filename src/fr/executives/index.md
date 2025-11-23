@@ -70,4 +70,3 @@ Faites connaissance avec les membres dévoués qui dirigent et organisent le Ude
 ## Contact
 
 Vous voulez contacter l'équipe exécutive? Rejoignez notre serveur Discord ou contactez-nous par courriel!
-

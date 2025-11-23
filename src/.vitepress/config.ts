@@ -14,7 +14,8 @@ const hostname = "https://udemai.ca";
 export default defineConfig({
   // https://vitepress.dev/reference/site-config
   title: "UdeM AI",
-  description: "Université de Montréal AI Club - Learning, Building, and Innovating Together",
+  description:
+    "Université de Montréal AI Club - Learning, Building, and Innovating Together",
 
   head: headConfig,
 
@@ -68,8 +69,7 @@ export default defineConfig({
           pattern: "https://github.com/udem-ai/website/tree/main/src/:path",
         },
         footer: {
-          copyright:
-            "Copyright © 2024-present UdeM AI.",
+          copyright: "Copyright © 2024-present UdeM AI.",
         },
       },
     },
@@ -108,8 +108,7 @@ export default defineConfig({
           pattern: "https://github.com/udem-ai/website/tree/main/src/:path",
         },
         footer: {
-          copyright:
-            "Copyright © 2024-present UdeM AI.",
+          copyright: "Copyright © 2024-present UdeM AI.",
         },
       },
     },

@@ -60,4 +60,3 @@ Intéressé à rejoindre un projet ou à démarrer le vôtre? Contactez-nous via
 ::: tip
 Tous les projets sont ouverts à la collaboration. Consultez notre organisation GitHub pour plus de détails.
 :::
-

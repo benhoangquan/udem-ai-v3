@@ -33,5 +33,4 @@ Welcome to the first weekly meeting blog post! This week marked the beginning of
 
 ---
 
-*Stay tuned for more updates from our weekly meetings!*
-
+_Stay tuned for more updates from our weekly meetings!_

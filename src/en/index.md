@@ -30,7 +30,6 @@ features:
     details: Work on exciting AI/ML projects with fellow club members and build your portfolio.
   - title: Learning Resources
     details: Access curated resources, tutorials, papers, and tools to accelerate your AI/ML journey.
-
 ---
 
 ## Meeting Information
@@ -63,4 +62,3 @@ The UdeM AI Club is a community of students passionate about Artificial Intellig
     <p>Photo Placeholder 3</p>
   </div>
 </div>
-

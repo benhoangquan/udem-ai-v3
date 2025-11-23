@@ -45,5 +45,4 @@ Neural networks are powerful tools for solving complex problems. Understanding t
 
 ---
 
-*This is a placeholder article. Replace with actual technical content.*
-
+_This is a placeholder article. Replace with actual technical content._
